@@ -11,5 +11,3 @@ jobs:
     steps:
       - name: execute echo command
         run: echo "Hello World!"
-      - name: execute cat command
-        run: cat file.txt
